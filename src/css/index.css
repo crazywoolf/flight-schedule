@@ -1,0 +1,60 @@
+.index_main {
+  min-width: 605px;
+}
+.index_table {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.index_btn:hover, .index_btn:focus {
+  background-color: #ccc;
+}
+
+.page_item {
+  background-color: #fff;
+  border: solid 1px #dc3545;
+  padding: 8px 12px;
+}
+
+.page_item:hover {
+  background-color: #dc3545;
+  color: #fff;
+  cursor: pointer;
+}
+
+.page_item_active {
+  background-color: #dc3545;
+  color: #fff;
+  border: solid 1px #dc3545;
+  padding: 8px 12px;
+}
+
+#index_btn_type{
+  background-color: #dc3545;
+}
+
+#index_btn_type_select{
+  background-color: #c82333;
+}
+
+#index_btn_type:hover, #index_btn_type:focus{
+  background-color: #c82333;
+}
+
+.index_pagin {
+  background-color: #fff;
+}
+
+#index_navbar{
+  background-color: #eee;
+  color: #fff;
+}
+
+#index_navbar > a {
+  color: #c82333;
+  font-weight: bold;
+}
+
+.index_td_delay {
+  color: #dc3545;
+}
